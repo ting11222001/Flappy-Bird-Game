@@ -6,7 +6,7 @@ Flappy Bird Game WPF is a simple and fun game built using Microsoft Visual Studi
 
 ## Demo
 
-![flappy-bird-demo.mp4](demo/flappy-bird-demo.mp4)
+![flappy-bird-demo.gif](demo/flappy-bird-demo.gif)
 
 ## Table of Contents
 
