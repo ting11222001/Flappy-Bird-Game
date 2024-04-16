@@ -146,7 +146,7 @@ namespace Flappy_Bird_Game_WPF
                 }
                 if((string)x.Tag == "cloud")
                 {
-                    Canvas.SetLeft(x, 300 + temp);
+                    Canvas.SetLeft(x, 100 + temp);
                     temp = 800;
                 }
             }
